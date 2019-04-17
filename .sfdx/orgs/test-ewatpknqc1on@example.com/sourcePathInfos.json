@@ -1,0 +1,467 @@
+[
+    [
+        "C:\\relatededitinline\\force-app",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451888993,
+            "changeTime": 1555451888993,
+            "contentHash": "afa93b7c40deab8cdbd247350ad17a9bc39369cd",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451176446,
+            "changeTime": 1555451176446,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451325780,
+            "changeTime": 1555451325780,
+            "contentHash": "0d7a282c1dbcd0081de45b3615d3e7a031de1709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451325811,
+            "changeTime": 1555451325811,
+            "contentHash": "c00f589c1c57cf80695b84cb92c4e6d135b3a128",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451325811,
+            "changeTime": 1555451325811,
+            "contentHash": "dcb89fef1ca34e9e33b9070156949a9f1c4b12bb",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRow.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRow.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5821,
+            "modifiedTime": 1555451325811,
+            "changeTime": 1555451325811,
+            "contentHash": "1a4dc9104c476f994a6a929a830bc5e4bff7bed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRow.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRow.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1555451325811,
+            "changeTime": 1555451325811,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRow.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRow.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 221,
+            "modifiedTime": 1555451325811,
+            "changeTime": 1555451325811,
+            "contentHash": "1d892e67d4b576a860eea0ace6b7d8658b3dc24d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRowController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRowController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2455,
+            "modifiedTime": 1555451325811,
+            "changeTime": 1555451325811,
+            "contentHash": "90ce18a7ecb169b6f8c8b83a90441e5d36b5816d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRowHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditRow\\inlineEditRowHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1210,
+            "modifiedTime": 1555451325811,
+            "changeTime": 1555451325811,
+            "contentHash": "4b8da421457f28ef9e31c169ed03d11c7b283c5e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451325827,
+            "changeTime": 1555451325827,
+            "contentHash": "e6589e3b3c55aae613838255af10301c7f1e7b29",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable\\inlineEditTable.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable\\inlineEditTable.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2644,
+            "modifiedTime": 1555451325827,
+            "changeTime": 1555451325827,
+            "contentHash": "5f2cec84f5b99496f92af2f74a92b99bbad9895e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable\\inlineEditTable.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable\\inlineEditTable.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1555451325811,
+            "changeTime": 1555451325811,
+            "contentHash": "44552d5f0ead99a404fe423187718fc248819736",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable\\inlineEditTableController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable\\inlineEditTableController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2275,
+            "modifiedTime": 1555451325827,
+            "changeTime": 1555451325827,
+            "contentHash": "b68ef60aced12ddb0edf2de7bfaea4d7f38346fe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable\\inlineEditTableHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\aura\\inlineEditTable\\inlineEditTableHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 592,
+            "modifiedTime": 1555451325827,
+            "changeTime": 1555451325827,
+            "contentHash": "029a6cc4361668f47ff1c14861d9714801bb2a75",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451325780,
+            "changeTime": 1555451325780,
+            "contentHash": "dff18165e9a1e455f8eb6bb79c2953962f0cf86a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\classes\\inlineEditCtrl.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\classes\\inlineEditCtrl.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1784,
+            "modifiedTime": 1555451325780,
+            "changeTime": 1555451325780,
+            "contentHash": "1e9b014e80ae787971230b723c001d8939867729",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\classes\\inlineEditCtrl.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\classes\\inlineEditCtrl.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1555451325780,
+            "changeTime": 1555451325780,
+            "contentHash": "ab3ac94968e57930b88820ab5438fa820ed36730",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\lwc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451342422,
+            "changeTime": 1555451342422,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451325780,
+            "changeTime": 1555451325780,
+            "contentHash": "1d75774c0f96b6ee44eb6643c9fea71b50b90ea8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451325780,
+            "changeTime": 1555451325780,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451325795,
+            "changeTime": 1555451325795,
+            "contentHash": "993408477c51c766d828bd5369327174fe21772c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields\\Case_Id__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields\\Case_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 491,
+            "modifiedTime": 1555451325780,
+            "changeTime": 1555451325780,
+            "contentHash": "07c75d0bbd75fbafafc28dfb2abf25e723a43c90",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields\\Shipping_Attention__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields\\Shipping_Attention__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 380,
+            "modifiedTime": 1555451325795,
+            "changeTime": 1555451325795,
+            "contentHash": "2167fa6686efd56e576d2f84819288294806e479",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields\\Shipping_Institution__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields\\Shipping_Institution__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 384,
+            "modifiedTime": 1555451325795,
+            "changeTime": 1555451325795,
+            "contentHash": "fa195366e71b0ecb4fb372d9a7c895abe2c7cb0a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields\\Shipping_Track_Number__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\main\\default\\objects\\Order\\fields\\Shipping_Track_Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 385,
+            "modifiedTime": 1555451325795,
+            "changeTime": 1555451325795,
+            "contentHash": "ec324d68ea69c61de5f05e648bb7cdf0bbb6afc9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\test",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451899016,
+            "changeTime": 1555451899016,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\test\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\test\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555452034776,
+            "changeTime": 1555452034776,
+            "contentHash": "aa77177182442ff3660c6938971b1ba5d2d60444",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\test\\classes\\inlineEditCtrlTest.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\test\\classes\\inlineEditCtrlTest.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 90,
+            "modifiedTime": 1555452034774,
+            "changeTime": 1555452034774,
+            "contentHash": "ede44902eb260543dd36ac1a7979aad3c24e4861",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline\\force-app\\test\\classes\\inlineEditCtrlTest.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline\\force-app\\test\\classes\\inlineEditCtrlTest.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 196,
+            "modifiedTime": 1555452034776,
+            "changeTime": 1555452034776,
+            "contentHash": "e7329715e8b1e3ceb98e18ebf29c70c47ecd4b87",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\relatededitinline",
+        {
+            "state": "u",
+            "sourcePath": "C:\\relatededitinline",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1555451337125,
+            "changeTime": 1555451337125,
+            "contentHash": "9910b9563c77081c4fbc4a48166807614c74c316",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
